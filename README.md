@@ -12,5 +12,6 @@
   
   I work with React.js, Node.js and Agile methodology on daily basis, also taking care of metrics, with tools such as datadog, new relic, and google analytics. 
   
-  Here you can see more of what I've done (guadalazzo.github.io)[https://guadalazzo.github.io/]
-</p>
+  Here you can see more of what I've done [guadalazzo.github.io](https://guadalazzo.github.io/)
+  
+  </p>
