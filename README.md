@@ -4,7 +4,7 @@
     <img alt="Twitter: luppelazzo" src="https://img.shields.io/twitter/follow/luppelazzo.svg?style=social" />
   </a>
   
-  [Ssr Frontend Developer at Mercado Libre](https://github.com/glazzo). I'm always looking forward to learn new technologies,and keep myself updated.
+  [Ssr Frontend Developer at ComeOn Group](https://github.com/glazzo). I'm always looking forward to learn new technologies,and keep myself updated.
   
   Co-organizer at [freecodecampba.org](https://freecodecampba.org/), I actively participate at development meetups, and love going to hackathons.
   
