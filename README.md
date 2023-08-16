@@ -1,8 +1,5 @@
 <h1>Guadalupe Jazmin Lazzo ⏤ @guadalazzo 🦄</h1>
 <p>
-  <a href="https://twitter.com/luppelazzo" target="_blank">
-    <img alt="Twitter: luppelazzo" src="https://img.shields.io/twitter/follow/luppelazzo.svg?style=social" />
-  </a>
   
   [Ssr Frontend Developer at ComeOn Group](https://github.com/glazzo). I'm always looking forward to learn new technologies,and keep myself updated.
   
