@@ -3,7 +3,7 @@
   
   [Ssr Frontend Developer at ComeOn Group](http://sth-gitlab01.cleverdolphin.se/guadalupe.lazzo) . I'm always looking forward to learn new technologies,and keep myself updated.
   
-  Co-organizer at [freecodecampba.org](https://freecodecampba.org/), I actively participate at development meetups, and love going to hackathons.
+  I actively participate at development meetups, and love going to hackathons.
   
   Strongly support applying UX design, working side to side with the design team on the projects I belong.  
   
