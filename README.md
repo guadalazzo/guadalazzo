@@ -1,7 +1,7 @@
 <h1>Guadalupe Jazmin Lazzo ⏤ @guadalazzo 🦄</h1>
 <p>
   
-  [Ssr Frontend Developer at ComeOn Group](https://github.com/glazzo). I'm always looking forward to learn new technologies,and keep myself updated.
+  [Ssr Frontend Developer at ComeOn Group](http://sth-gitlab01.cleverdolphin.se/guadalupe.lazzo) . I'm always looking forward to learn new technologies,and keep myself updated.
   
   Co-organizer at [freecodecampba.org](https://freecodecampba.org/), I actively participate at development meetups, and love going to hackathons.
   
