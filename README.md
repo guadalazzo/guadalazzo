@@ -1,11 +1,14 @@
 <h1>Guadalupe Jazmin Lazzo ⏤ @guadalazzo 🦄</h1>
 <p>
   
-  [Ssr Frontend Developer at ComeOn Group](https://www.comeon-group.com/) . I'm always looking forward to learn new technologies,and keep myself updated.
+  [Ssr Frontend Developer at Meridia](https://www.meridia.land/) 
   
-  Strongly support applying UX design, working side to side with the design team on the projects I belong.  
+  Detail-oriented and proactive Frontend Developer with a keen eye for precision. 
   
-  I work with React.js, Node.js and Agile methodology on daily basis, also taking care of metrics, with tools such as datadog, new relic, and google analytics. 
+  Proficient in React.js, HTML, CSS and Redux. Values collaboration and actively contributes to team success. 
+  I naturally take on the role of the team's point person. 
+
+  Currently working with VUE3, Quasar, Pinia
   
   Here you can see more of what I've done [guadalazzo.github.io](https://guadalazzo.github.io/)
   
