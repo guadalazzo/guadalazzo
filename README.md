@@ -8,7 +8,7 @@
   Proficient in React.js, HTML, CSS and Redux. Values collaboration and actively contributes to team success. 
   I naturally take on the role of the team's point person. 
 
-  Currently working with VUE3, Quasar, Pinia
+  Currently working with VUE3, Quasar, TailwindCSS, Pinia.
   
   Here you can see more of what I've done [guadalazzo.github.io](https://guadalazzo.github.io/)
   
