@@ -1,14 +1,12 @@
 <h1>Guadalupe Jazmin Lazzo ⏤ @guadalazzo 🦄</h1>
 <p>
   
-  [Ssr Frontend Developer at Meridia](https://www.meridia.land/) 
+  [Software Engineer - Frontend at Tiqets](https://www.tiqets.com/es/) 
   
-  Detail-oriented and proactive Frontend Developer with a keen eye for precision. 
-  
-  Proficient in React.js, HTML, CSS and Redux. Values collaboration and actively contributes to team success. 
-  I naturally take on the role of the team's point person. 
-
-  Currently working with VUE3, Quasar, TailwindCSS, Pinia.
+Detail-oriented Frontend Engineer based in Amsterdam, originally from Argentina. 
+Skilled in React.js, HTML, and TailwindCSS, with a strong focus on web performance and
+accessibility (a11y). Experienced in optimizing Core Web Vitals, ensuring WCAG compliance, and improving front-end architecture. Collaborative team player who naturally
+takes initiative and contributes to collective success.
   
   Here you can see more of what I've done [guadalazzo.github.io](https://guadalazzo.github.io/)
   
